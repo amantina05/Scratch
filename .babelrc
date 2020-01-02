@@ -1,0 +1,6 @@
+// setting babel-loader teaches webpack to use babel
+// babel parses the code
+
+{
+  "presets": ["@babel/preset-react", "@babel/preset-env"]
+}
